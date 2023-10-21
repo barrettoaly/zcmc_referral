@@ -1,0 +1,37 @@
+.table-container {
+  width: 100%;
+  max-width: 1300px;
+  margin: 0 auto;
+  margin-top: 30px;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  padding: 15px;
+  border-radius: 5px;
+}
+.side-container {
+  width: 100%;
+  margin-top: 30px;
+  height: auto;
+  box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.border {
+  border-width: 1px;
+  border-color: #202020;
+  border-style: solid;
+  padding: 10px;
+  font-size: 13px;
+}
+
+.table-hospital-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+  margin-top: 40px;
+}
+
+.add-hospital-btn {
+  display: flex;
+  margin-bottom: 10px;
+}
